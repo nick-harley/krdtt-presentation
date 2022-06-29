@@ -1,4 +1,4 @@
-# Knowledge Representation using Dependent Type Theory
+# Knowledge representation using dependent type theory
 
 <https://nick-harley.github.io/krdtt-presentation/>
 
